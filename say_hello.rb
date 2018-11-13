@@ -4,4 +4,4 @@
    puts "Hello #{name}"
  end
  
- 
+ greeting("Kent Beck")
